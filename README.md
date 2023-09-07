@@ -1,2 +1,2 @@
 # landing-page
-LAnding page practice Odin Project
+Landing page practice Odin Project
